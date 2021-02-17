@@ -1,1 +1,1 @@
-# gaih-students-repo-example
+# GlobalAIHubPythonCourse
